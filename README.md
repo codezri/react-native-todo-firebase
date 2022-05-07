@@ -9,7 +9,7 @@ Install dependencies
 
 ```bash
 npm i
-## --- or ---
+### --- or ---
 yarn
 ```
 
@@ -28,7 +28,6 @@ npx react-native run-android
 ### -- or ---
 npx react-native run-ios
 ```
-
 
 ## License
 
